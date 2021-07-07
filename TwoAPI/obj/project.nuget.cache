@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKnS6tsZKm0JKtr5GdEcIBFoEHZPjX4Op4+NDmAYzvDbVN8SJbd81N95dQeHEdkdQlwbinrCkCbSDAazx2KO2Q==",
+  "success": true,
+  "projectFilePath": "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI\\TwoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
