@@ -1,9 +1,10 @@
+/* GREEN TEST */
 using NUnit.Framework;
 
 namespace APITest
 {
     [TestFixture]
-    public class API1ControllerTest
+    public class API1ControllerTestGreen
     {
         [Test]
         public void RetornoTaxaJuros()

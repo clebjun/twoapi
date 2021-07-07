@@ -1,17 +1,16 @@
+/* GREEN TEST */
 using NUnit.Framework;
 
 namespace APITest
 {
     [TestFixture]
-    public class API1ControllerTest
+    public class API1ControllerTestRefactor
     {
         [Test]
         public void RetornoTaxaJuros()
         {
             var api1Controller = new TwoAPI.Controllers.API1Controller();
-            var result = api1Controller.GetTaxaJuros();
-
-            Assert.AreEqual(result, "0,01");
+            Assert.AreEqual(api1Controller.GetTaxaJuros(), "0,01");
         }
 
     }
