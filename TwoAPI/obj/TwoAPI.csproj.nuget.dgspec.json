@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI\\TwoAPI.csproj": {}
+    "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI.csproj": {}
   },
   "projects": {
-    "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI\\TwoAPI.csproj": {
+    "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI\\TwoAPI.csproj",
+        "projectUniqueName": "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI.csproj",
         "projectName": "TwoAPI",
-        "projectPath": "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI\\TwoAPI.csproj",
+        "projectPath": "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI.csproj",
         "packagesPath": "C:\\Users\\acjunior4.STFSAON005118-L\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\TwoAPI\\TwoAPI\\TwoAPI\\obj\\",
+        "outputPath": "C:\\git\\TwoAPI\\TwoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acjunior4.STFSAON005118-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
