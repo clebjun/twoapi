@@ -54,3 +54,4 @@ C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.csproj.CopyComplete
 C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.dll
 C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.pdb
 C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.genruntimeconfig.cache
+C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.csprojAssemblyReference.cache

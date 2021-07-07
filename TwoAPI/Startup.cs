@@ -10,7 +10,7 @@ namespace TwoAPI
 {
     public class Startup
     {
-        private string _title => "API1";
+        private string _title => "Desafio Técnico";
         private string _version => "v1";
 
         public Startup(IConfiguration configuration)

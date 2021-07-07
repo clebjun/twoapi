@@ -19,8 +19,8 @@
     },
     "Docker": {
       "commandName": "Docker",
-      "launchBrowser": false,
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/API2Controller",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/showMeTheCode",
       "publishAllPorts": true
     },
     "Swagger": {
