@@ -32,7 +32,12 @@ C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\TwoAPI.runtimeconfig.json
 C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\TwoAPI.runtimeconfig.dev.json
 C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\TwoAPI.dll
 C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\TwoAPI.pdb
+C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -49,8 +54,3 @@ C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.csproj.CopyComplete
 C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.dll
 C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.pdb
 C:\git\TwoAPI\TwoAPI\obj\Debug\netcoreapp3.1\TwoAPI.genruntimeconfig.cache
-C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\nunit.framework.dll
-C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
-C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
-C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\git\TwoAPI\TwoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
